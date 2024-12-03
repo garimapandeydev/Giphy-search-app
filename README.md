@@ -63,9 +63,4 @@ This app uses the Giphy API to fetch GIFs. You can sign up for your own Giphy AP
 
 - **Search GIFs**: `https://api.giphy.com/v1/gifs/search?api_key=YOUR_API_KEY&q={searchTerm}&limit=9`
 
-## Contributing
 
-Feel free to fork this repository and contribute by opening a pull request. When contributing, please ensure your code follows the existing coding style and write tests for new features or bug fixes.
-
-
->>>>>>> ce2e4b15b07092a3ea78b76ecc6e8114b9f5e305
